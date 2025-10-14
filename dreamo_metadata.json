@@ -1,0 +1,25 @@
+{
+  "name": "Dreamo",
+  "symbol": "DREAMO",
+  "description": "Dream it. Do it. Own it.",
+  "image": "https://raw.githubusercontent.com/12347771234/metadata-fft/main/DREAMO%20logo.webp",
+  "external_url": "https://www.dreamo.tech",
+  "attributes": [
+    {
+      "trait_type": "Element",
+      "value": "Dream"
+    },
+    {
+      "trait_type": "Vibe",
+      "value": "Creative"
+    },
+    {
+      "trait_type": "Energy",
+      "value": "High"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}
